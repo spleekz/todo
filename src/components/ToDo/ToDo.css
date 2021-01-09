@@ -1,0 +1,7 @@
+.todo-body{
+  display: flex;
+  align-items: center;
+  padding:50px;
+  flex-direction: column; 
+  margin:0 auto;
+}

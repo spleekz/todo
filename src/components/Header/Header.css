@@ -1,0 +1,11 @@
+.header-title{
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Ruda', sans-serif;
+  font-size:30px;
+  font-weight: bold;
+}
+header{
+  background-color: rgb(255, 187, 0);
+  padding: 7px 0px 7px 0px;
+}
